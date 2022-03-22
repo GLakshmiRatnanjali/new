@@ -1,0 +1,5 @@
+class Dog:
+    def name(self,name):
+        return name
+d=Dog()
+print(d.__class__.__name__)
