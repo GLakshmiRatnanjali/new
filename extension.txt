@@ -1,0 +1,4 @@
+import os
+f=os.path.splittext('/path/file.ext')
+print(f)
+print(f[1])
