@@ -1,0 +1,4 @@
+i=[1,2,3]
+l=['c','java','python']
+d=dict(zip(i,l))
+print(d)
